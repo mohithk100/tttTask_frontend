@@ -1,0 +1,14 @@
+.table{
+  margin-top: 55px;
+}
+
+table{
+  border: 1px solid;
+}
+
+.header{
+  font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif;
+  font-size: 35px;
+  text-align: center;
+  padding-bottom: 30px;
+}
