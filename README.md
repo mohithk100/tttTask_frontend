@@ -90,16 +90,16 @@ The project can be easily deployed on heroku by following these steps:
    $ sed '/build/d' .gitignore > .gitignore.new && mv .gitignore.new .gitignore
    ```
 5. Build, commit, & deploy
-  ```
-  $ npm run build
-  $ git add .
-  $ git commit -m "react-create-app on Heroku"
-  $ git push heroku master
-  ```
+   ```
+   $ npm run build
+   $ git add .
+   $ git commit -m "react-create-app on Heroku"
+   $ git push heroku master
+   ```
 6. Visit the live React app in your browser.
-  ```
-  $ heroku open
-  ```
+   ```
+   $ heroku open
+   ```
 
 ## Screenshots
 
