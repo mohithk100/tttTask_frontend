@@ -13,9 +13,9 @@ These instructions will get you a copy of the project up and running on your loc
 purposes. See deployment for notes on how to deploy the project on a live system.
 
 1. Clone the repository.
-```
-$ git clone https://github.com/mohithk100/tttTask_frontend
-```
+   ```
+   $ git clone https://github.com/mohithk100/tttTask_frontend
+   ```
 
 2. Install all the dependencies.
    - Using yarn
@@ -31,13 +31,13 @@ $ git clone https://github.com/mohithk100/tttTask_frontend
 
 3. Running the development server
    - Using yarn
-     ```
-     $ yarn start
-     ```
+    ```
+    $ yarn start
+    ```
    - Using npm
-     ```
-     $ npm start
-     ```
+    ```
+    $ npm start
+    ```
 
 
 ## Prerequisites
