@@ -74,3 +74,23 @@ Certain extra features that were added are:
  The understanding and working of the backend can be found [here](https://github.com/mohithk100/tttTask_backend).
  
  ## Screenshots
+
+* Home Screen
+
+![Home Screen](https://user-images.githubusercontent.com/22764320/38793111-75082e8e-416d-11e8-9150-782b025c6211.png)
+
+* Entering non-numeric value
+
+![Non-numeric Error](https://user-images.githubusercontent.com/22764320/38793137-91e36d70-416d-11e8-9b3a-28cc4abdd9ff.png)
+
+* Loader
+
+![Loader](https://user-images.githubusercontent.com/22764320/38793152-9fc8c23c-416d-11e8-910c-dbd9f43f3d8c.png)
+
+* Word Frequency Table
+
+![Word Frequency Table](https://user-images.githubusercontent.com/22764320/38793159-aab04fb2-416d-11e8-847f-7a041bc366b1.png)
+
+* Number Exceeded Unique Words in Text
+
+![Words Exceeded](https://user-images.githubusercontent.com/22764320/38793176-c033b95a-416d-11e8-8462-1e399288613b.png)
