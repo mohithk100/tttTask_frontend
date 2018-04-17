@@ -60,7 +60,7 @@ The following technologies should be installed on the system before starting wit
 the state of the component changes and triggers a request to fetch the text file. The axios library helps in handling the HTTP
 requests.
 * **The Table Component:** This component is responsible for rendering the word frequency table. The data fetched from the axios request
-is set to the Table component's state by passing thorugh props. Based on the state the component maps the data to the table rows and
+is set to the Table component's state by passing through props. Based on the state the component maps the data to the table rows and
 dynamically renders the table.
 * **The Error Compoenent:** This component is responsible for form/input validation. It makes sures that only numeric data validated
 and also checks if N has exceeded unique number of words in the text based on the response recieved from the backend.
@@ -76,7 +76,7 @@ Certain extra features that were added are:
 ## Deploying the project
 The project can be easily deployed on heroku by following these steps:
 
-1. Create a free Heroku account and install [Heroku CLI.]()
+1. Create a free Heroku account and install [Heroku CLI.](https://devcenter.heroku.com/articles/heroku-cli)
 2. Create the Heroku app; requires free account at Heroku.
    ```
    $ heroku create -b https://github.com/heroku/heroku-buildpack-static.git
